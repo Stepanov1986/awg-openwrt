@@ -17,7 +17,7 @@ jobs:
             pkgarch: aarch64_cortex-a53
             target: mediatek
             subtarget: filogic
-            vermagic: "29c7378c7e1adfd339581af2c1ddc93a"
+            vermagic: "01c22519ce836afade4e782169e44ead"
           - tag: "23.05.3"
             pkgarch: aarch64_cortex-a53
             target: mediatek
